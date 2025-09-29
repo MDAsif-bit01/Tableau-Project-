@@ -46,7 +46,7 @@ Significant warming trends became evident after the mid-20th century.
 
 The data shows accelerating increases post-1980, aligning with industrial growth.
 
-<h3>Applications</h3>
+<h2>Applications</h2>
 
 Climate Research: Track historical warming patterns for policy and academic studies.
 
@@ -56,7 +56,7 @@ Education: Raise awareness about regional and global climate change impacts.
 
 Forecasting: Enable predictive modeling for future climate scenarios.
 
-<h3>Data Source</h3>
+<h2>Data Source</h2>
 
 Met Office Hadley Centre – HadCRUT5 (2025)
 
@@ -64,7 +64,7 @@ Processed by Our World in Data
 
 Baselines: Commonly 1961–1990 (WMO recommended) and 1861–1890 (pre-industrial reference).
 
-<h3>Technologies & Tools</h3>
+<h2>Technologies & Tools</h2>
 
 Visualization Tool: Tableau
 
